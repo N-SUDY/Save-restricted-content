@@ -2,9 +2,9 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://t.me/userbot_crack)
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
+A stable telegram bot to get restricted messages with custom thumbnail support , made by Geek Typer . 
 
 - works for both public and private chats
 - Custom thumbnail support for Pvt medias
@@ -51,7 +51,7 @@ sudo docker-compose up --build
 
 The hard Way:
 
-- Fill vars in your fork in [this](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/MaheshChauhan/36)
+- Fill vars in your fork in [this](https://github.com/Geektyper/Save-restricted-content/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/MaheshChauhan/36)
 - enter all the below commands
 
 ```
