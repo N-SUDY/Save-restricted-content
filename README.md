@@ -51,7 +51,7 @@ sudo docker-compose up --build
 
 The hard Way:
 
-- Fill vars in your fork in [this](https://github.com/Geektyper/Save-restricted-content/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/MaheshChauhan/36)
+- Fill vars in your fork in [this](https://github.com/Geektyper/Save-restricted-content/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/pratham_mandal/2)
 - enter all the below commands
 
 ```
